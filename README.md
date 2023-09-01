@@ -1,6 +1,6 @@
 **Welcome to my twitter clone.**
 
-_**(Version 1.0)**_**[\- View on Github](https://github.com/amitmehla1207/twitterclone)**
+_**(Version 1.0)**_**[\- SEE DEMO](https://amitmehla1207.github.io/twittercloneapp)**
 
 _**I am regularly updating it to match exactly all features of twitter.**_
 
